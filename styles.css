@@ -1,0 +1,44 @@
+.screen {
+    height: 150px;
+    width: 422px;
+    background-color: #FFE9B1;
+    margin: 20px;
+}
+
+.btn {
+    height: 30px;
+    width: 50px;
+    background-color: #8EC3B0;
+    margin: 20px;
+}
+
+.operator {
+    height: 30px;
+    width: 50px;
+    background-color: #E97777;
+    margin: 20px;
+}
+
+.pressed {
+    box-shadow: 0 3px 4px #a4d6da;
+    opacity: 0.5;
+}
+.num {
+    text-align: right;
+    padding-right: 20px;
+    padding-top: 100px;
+}
+
+.clear {
+    height: 30px;
+    width: 50px;
+    background-color: #E14D2A;
+    margin: 20px;
+}
+
+.equal {
+    height: 30px;
+    width: 50px;
+    background-color: #E97777;
+    margin: 20px;
+}
